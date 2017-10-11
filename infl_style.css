@@ -76,7 +76,7 @@
 	height: auto;
 }
 .influencer form input.form-control {
-	max-width: inherit;
+	max-width: 77px;
 	font-family: 'Arial';
 }
 #infl-inp-search-yt, 

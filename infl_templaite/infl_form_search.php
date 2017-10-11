@@ -118,8 +118,8 @@
 					<div class="row justify-content-md-center ">
 						<div class="form-group col-md-3">
 							<label for="infl-subscr-min-ig">Subscribes</label><br>
-							<input id="infl-subscr-min-ig" name="infl-subscr-min-ig" type="text" class="form-control col-md-4" placeholder="min">
-							<input id="infl-subscr-max-ig" name="infl-subscr-max-ig" type="text" class="form-control col-md-4" placeholder="max">
+							<input id="infl-subscr-min-ig" name="infl-subscr-min-ig" type="text" class="form-control col-md-3" placeholder="min">
+							<input id="infl-subscr-max-ig" name="infl-subscr-max-ig" type="text" class="form-control col-md-3" placeholder="max">
 						</div>
 						<div class="col-md-1"></div>
 						<div class="form-group col-md-3">
@@ -131,8 +131,8 @@
 					<div class="row justify-content-md-center ">
 						<div class="form-group col-md-3">
 							<label for="infl-engagement-min-ig">Engagements</label><br>
-							<input id="infl-engagement-min-ig" name="infl-engagement-min-ig" type="text" class="form-control col-md-4" placeholder="min">
-							<input id="infl-engagement-max-ig" name="infl-engagement-max-ig" type="text" class="form-control col-md-4" placeholder="max">
+							<input id="infl-engagement-min-ig" name="infl-engagement-min-ig" type="text" class="form-control col-md-3" placeholder="min">
+							<input id="infl-engagement-max-ig" name="infl-engagement-max-ig" type="text" class="form-control col-md-3" placeholder="max">
 						</div>
 						<div class="col-md-1"></div>
 						<div class="form-group col-md-3">
