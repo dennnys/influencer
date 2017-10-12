@@ -8,6 +8,7 @@ Author: Denis and Maxime
 Author URI: http://imagemotion.com
 License: Truc
 */
+// Et Maxime
 
 $reponse_ig = '[]';
 
